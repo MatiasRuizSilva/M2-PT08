@@ -1,0 +1,5 @@
+DOM: las siglas significan Document Object Model. Hace referencia a la carga que hace el motor del navegador respecto al archivo index.html y a la ejecucion del codigo de ese archivo junto a los que tenga vinculados, es decir genera un modelo para ese contenido
+
+DOM element selectors: utilizando metodos como getelementby...9 se puede acceder a elementos seleccionados contenidos dentro del DOM, hay varios de esos selectores, segun id, segun clase, segun el tag que lo contenga, etc. 
+
+DOM events: los eventos que ocurren en el DOM son los que se ejecutan con la interaccion del usuario ya sea por estar en la pagina, por dar click, mover el mouse, etc. por cada accion se puede o no efectuar un evento depende como este configurado el javascript de ese DOM. 
